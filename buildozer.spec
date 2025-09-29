@@ -14,7 +14,7 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
 
 # Что нужно для работы
-requirements = python3,kivy,yt-dlp,requests
+requirements = python3,kivy,yt-dlp,requests,setuptools,wheel
 
 # Экран только вертикальный
 orientation = portrait
